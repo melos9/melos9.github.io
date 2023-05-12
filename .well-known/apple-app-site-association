@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["6WHUM684J6.com.miyakawa.SampleUniversal"],
+             "paths": [ "/applinks/su/*"]
+           }
+       ]
+   }
+}
