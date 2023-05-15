@@ -3,7 +3,12 @@
       "details": [
            {
              "appIDs": ["693N3VVARV.jp.co.sony.playmemoriesmobile.portalapp.debug"],
-             "paths": [ "/applinks/su/*"]
+             "components": [
+               {
+                  "/": "/applinks/su/*",
+                  "comment": ""
+               }
+             ]
            }
        ]
    }
