@@ -2,10 +2,10 @@
   "applinks": {
       "details": [
            {
-             "appIDs": ["693N3VVARV.jp.co.sony.playmemoriesmobile.portalapp.debug"],
+             "appIDs": ["693N3VVARV.jp.co.sony.playmemoriesmobile.portalapp.debug","VH49J2FYHE.jp.co.sony.playmemoriesmobile.portalapp"],
              "components": [
                {
-                  "/": "/applinks/su/*",
+                  "/": "/applinks/ca/*",
                   "comment": ""
                }
              ]
